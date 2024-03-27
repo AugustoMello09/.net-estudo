@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{0AA9CAA8-7314-4F6B-8C9D-82C5D2D65382}|MinhaAPI\\MinhaAPI.csproj|d:\\.net-estudo\\minhaapi\\minhaapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0AA9CAA8-7314-4F6B-8C9D-82C5D2D65382}|MinhaAPI\\MinhaAPI.csproj|solutionrelative:minhaapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA9CAA8-7314-4F6B-8C9D-82C5D2D65382}|MinhaAPI\\MinhaAPI.csproj|d:\\.net-estudo\\minhaapi\\minhaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AA9CAA8-7314-4F6B-8C9D-82C5D2D65382}|MinhaAPI\\MinhaAPI.csproj|solutionrelative:minhaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.net-estudo\\MinhaAPI\\MinhaAPI\\Program.cs",
+              "RelativeDocumentMoniker": "MinhaAPI\\Program.cs",
+              "ToolTip": "D:\\.net-estudo\\MinhaAPI\\MinhaAPI\\Program.cs",
+              "RelativeToolTip": "MinhaAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T12:51:29.511Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "MinhaAPI\\Controllers\\WeatherForecastController.cs",
               "ToolTip": "D:\\.net-estudo\\MinhaAPI\\MinhaAPI\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "MinhaAPI\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABEAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAArwCAAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-26T12:26:13.416Z",
               "EditorCaption": ""
